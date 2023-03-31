@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Drawer</string>
     <string name="textview">TextView</string>
-    <string name="name">Yu Han</string>
+    <string name="aaaa">Yu Han</string>
     <string name="yellow_star">Yellow Star</string>
     <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -44,4 +44,5 @@
         Egestas congue quisque egestas diam..</string>
     <string name="what_is_your_nickname">whatisyournickname?</string>
     <string name="done">Done</string>
+    <string name="name">Chua</string>
 </resources>
