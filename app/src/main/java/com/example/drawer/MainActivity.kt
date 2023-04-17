@@ -49,5 +49,10 @@ class MainActivity : AppCompatActivity() {
         view.visibility = View.GONE
 
         editText.requestFocus()
+
+        // Show the keyboard.
+        val imm = getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
+        imm.showSoftInput(editText, 0)
     }
+
 }
